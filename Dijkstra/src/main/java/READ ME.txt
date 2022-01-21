@@ -1,0 +1,12 @@
+Run the program via the main method in SPath.java
+It prompts you to enter one number. Enter one between 1-25 as that is how many vertices there are in our example
+Enter second number after - same logic as above
+
+The program will give you 
+1. The edges within the shortest path between your first chosen vertex (source) and your second chosen vertex (destination).
+2. Sum, Average and Std Deviation of the edges within that path
+3. The shortest path between your first chosen vertex (source) and your second chosen vertex (destination).
+4. It'll give you a table format of the shortest path to each vertex from your source vertex showing also the parent node it passed 
+to get there.
+
+I stored the edges in CSV file into arrayList. I created Edge class and stored each edge as edge object into object arrayList.
